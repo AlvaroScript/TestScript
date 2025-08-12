@@ -14,4 +14,5 @@ ESP:AddObjectListener(Workspace, { -- Object Path, For example: Workspace.ThisFo
     Color = Color3.fromRGB(0, 0, 0), -- Color
     IsEnabled = "whatever" -- Any name, has to be the same as the last line: ESP.TheNameYouWant
 })
+
 ESP.whatever = true
